@@ -1,5 +1,5 @@
-score=int(input())
-if score%2 == 0:
-    print("even")
+score=int(input()) #นำเข้าตัวเลข
+if score%2 == 0:#เอามาหาร2
+    print("Even")#ลงตัวเป็นคู่
 else:
-    print("odd")
+    print("Odd")#ไม่ลงเป็นคี่
